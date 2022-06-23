@@ -1,0 +1,18 @@
+.investor_section{
+    padding: 80px 0px;
+    
+    background-color: #e6e7e8;
+}
+.investorfont{
+    font-size: 4rem;
+    font-weight: 900;
+}
+.investor-logo{
+    filter: grayscale(100%);
+    transition: 0.5s all;
+    
+}
+.investor-logo:hover{
+    filter: grayscale(0);
+
+}

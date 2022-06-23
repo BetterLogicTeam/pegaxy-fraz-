@@ -1,0 +1,32 @@
+.bgimage{
+    background-image: url("../../assets/tokenomicsbg.jpg");
+    background-repeat: no-repeat;
+  
+  background-size: 100% 100%;
+}
+.list-group-item{
+    border: 0px !important;
+    font-weight: 700;
+    line-height: 1.5rem;
+    background-color: rgba(239, 248, 240, 0.1)
+
+    
+}
+.bgtransparent{
+    background-color: rgba(239, 248, 240, 0.1)
+
+    
+}
+.cardshadow{
+    box-shadow: 0 10px 60px -10px rgb(0 0 0 / 13%) !important;
+    border-radius: 50px !important;
+}
+.fontsize19{
+    font-size: 19px !important;
+}
+.fontsize13{
+    font-size: 13px !important;
+}
+.fontsize11{
+    font-size: 11px !important;
+}

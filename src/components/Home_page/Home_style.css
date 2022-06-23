@@ -1,0 +1,86 @@
+.mlcard {
+    margin-left: 65px;
+}
+
+@media screen and (max-width: 768px) {
+    .mlcard {
+        margin-left: 0px;
+
+    }
+    .imgsetting{
+        height:573px !important;
+      width:510px !important;
+    }
+}
+@media screen and (max-width: 560px) {
+    
+    .imgsetting{
+        height:573px !important;
+      width:400px !important;
+    }
+}
+
+.bgblack {
+    background-color: black;
+}
+
+@media screen and (max-width: 991px) {
+    .bgblack {
+        background-color: white !important;
+    }
+    .imgsetting{
+        height:573px;
+      width:450px ;
+    }
+}
+.home-main-section{
+    padding: 80px 0px 0px 0px;
+    
+}
+.bgwhite{
+    background-color: white !important;
+}
+
+@media  (min-width: 1921px) and (max-width: 2560px)  {
+    .imagesetting{
+        width: 400px !important;
+        height: auto !important;
+    }
+}
+@media  (min-width: 1025px) and (max-width: 1920px)  {
+    .imagesetting{
+        width: 575px !important;
+        height: auto !important;
+    }
+}
+@media  (min-width: 769px) and (max-width: 1024px)  {
+    .imagesetting{
+        width: 340px !important;
+        height: auto !important;
+    }
+}
+@media  (min-width: 426px) and (max-width: 768px)  {
+    .imagesetting{
+        width: 340px !important;
+        height: 500px !important;
+    }
+}
+@media (max-width: 426px)  {
+    .imagesetting{
+        width: 100% !important;
+        height: auto !important;
+    }
+}
+@media (min-width: 1024px) and (max-width:1920px)  {
+    .cardshiftright{
+       margin-right: -80px !important;
+    }
+    .cardshiftup{
+        margin-top: -100px;
+    }
+}
+.cardborderradius{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}

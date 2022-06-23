@@ -1,0 +1,21 @@
+.dropShadow{
+    filter: drop-shadow(0 60px 60px rgb(0 0 0 / 53%));
+}
+.ml{
+margin-left: 250px;
+}
+@media screen and (max-width: 768px) {
+    .ml {
+margin-left: 0px;
+     
+    }
+    .displaynone{
+        display: none !important;
+    }
+    .bgblack{
+        background-color: white !important;
+    }
+  }
+  .bgblack{
+    background-color: black;
+  }

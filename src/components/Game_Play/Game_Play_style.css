@@ -1,0 +1,53 @@
+.main_div_game_play {
+    background-image: url('../../assets//gameplaybg.png');
+
+    border-radius: 25px;
+    height: auto;
+    color: white;
+}
+
+.main {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+@media screen and (min-width:769px) and (max-width: 1024px)  {
+    .imghw {
+        width: 100%;
+        height: auto;
+        margin-right: -40px !important;
+        margin-top: 100px !important;
+        
+    }
+}
+@media screen and (min-width:426px) and (max-width: 768px)  {
+    .imghw {
+        width: 100%;
+        height: auto;
+        margin-right: 0px !important;
+        margin-top: 100px !important;
+        
+    }
+}
+/* @media (max-width: 425px) {
+
+
+   
+    .gameplayimage {
+        top: 0px !important;
+        right: 0px !important;
+    
+    }
+} */
+
+.gameplayimage {
+    top: -70px;
+    right: -50px;
+
+}
+
+.imghw {
+    width: 100% ;
+    height: auto ;
+    margin-right: -70px ;
+    margin-top: -70px ;
+}
